@@ -38,10 +38,7 @@ The project focuses on adapting the Wav2Vec2 model for speech recognition, enhan
 git clone https://github.com/murali954/speech-recognition-dialect-adaptation.git
 cd speech-recognition-dialect-adaptation
 ```
-2. Install dependencies:
-```
-```
-3. Run the transcription script:
+2. Run the transcription script:
 ```
 python main.py
 ```
